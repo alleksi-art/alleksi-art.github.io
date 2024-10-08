@@ -23,7 +23,7 @@ email: alleksiart@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Aleksi Mäkelä, 2D animator and director
 baseurl: /docs # the subpath of your site, e.g. /blog
-url: "https://alleksi-art.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://alleksi-art.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alleksi_art
 github_username:  alleksi-art
 
