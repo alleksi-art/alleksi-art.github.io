@@ -26,10 +26,12 @@ baseurl: /docs # the subpath of your site, e.g. /blog
 url: https://alleksi-art.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alleksi_art
 github_username:  alleksi-art
-
+author: aleksi
 # Build settings
-# theme: minima
-remote_theme: pages-themes/minimal@v0.2.0
+#theme: minima
+minima:
+  skin: dark
+remote_theme: jekyll/minima@3cdd14d
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
